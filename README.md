@@ -7,7 +7,7 @@
   3. Ligar e delsligar o interrumptor do porta lampada estragado para certificar que esta estragado.
   4. Certificado que não funciona a lampada.
   5. Ir até a tomada onde esta ligado o porta lampada.
-  6.  Tirar da tomada o porta lampada.
+  6. Tirar da tomada o porta lampada.
   7. Ir até o porta lampada.
   8. Corroborar que a lâmpada estragada não tenha energia, ligando e desligando o interrumptor.
   9. Tirar a lampada estragada do soporte de lampada.
@@ -23,7 +23,7 @@
   19. Ligar o soporte da lampada na tomada.
   20. Ir até a lampada
   21. Ligar o interrumpto para confirma que foi bem colocada. 
-    Ligada a luz esta pronto !
+    Ligada a luz !
 
 
 - Descreva com detalhes a sequência lógica para Trocar um pneu de um carro.
