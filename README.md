@@ -214,4 +214,3 @@
 26. Pego uma sinta do bolso
 27. Deixo o bolso
 28. Colo a lista na porta da aula. 
-
